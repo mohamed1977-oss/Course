@@ -1,0 +1,1 @@
+Configure github from pycharm
